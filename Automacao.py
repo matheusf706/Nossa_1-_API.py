@@ -3,7 +3,7 @@ from time import sleep
 
 # 1 - Clicar e digitar meu usuário
 pyautogui.click(966,541, duration =0.5)
-pyautogui.write('Matheus')
+pyautogui.write('matheus')
 # 2 - Clicar e digitar minha senha
 pyautogui.click(964,575, duration = 0.5)
 pyautogui.write('123456')
